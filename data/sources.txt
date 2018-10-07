@@ -1,0 +1,18 @@
+Sources:
+
+Fig1
+This plot shows the top 40 Wikipedia Languages (by number of gendered biographies), and compares their number of gendered biographies to female percentage of those biographies. 
+http://whgi.wmflabs.org/gender-by-language.html
+Data gathered 5 October 2018.
+
+
+Fig2
+Women in Science fact sheet (page two)
+http://uis.unesco.org/sites/default/files/documents/fs51-women-in-science-2018-en.pdf
+Data gathered 7 October 2018
+
+
+Fig3
+Who Makes The News report (page one)
+http://cdn.agilitycms.com/who-makes-the-news/Imported/reports_2015/highlights/highlights_en.pdf
+Data gathered 7 October 2018
